@@ -21,7 +21,7 @@ Certifique-se de ter as seguintes ferramentas e dependências instaladas:
 
 1. Crie um arquivo `.env` na raiz do projeto e adicione as variáveis de ambiente necessárias:
 
-```json
+```env
 DISCORD_TOKEN="xxx"
 CLIENT_ID="xxx"
 GUILD_ID="xxx"
